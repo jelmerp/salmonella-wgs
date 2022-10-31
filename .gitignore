@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+software/
+.vscode
+results/
+data/
+slurm-*
+sandbox
